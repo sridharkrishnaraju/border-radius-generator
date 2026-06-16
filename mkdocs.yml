@@ -1,0 +1,8 @@
+site_name: Border Radius Generator
+site_description: Visual CSS border-radius generator with live preview and copy.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
