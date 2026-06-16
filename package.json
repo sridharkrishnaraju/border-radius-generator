@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/border-radius-tool",
+  "version": "1.0.0",
+  "description": "Visual CSS border-radius generator with live preview and copy. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "border-radius-tool.js",
+  "unpkg": "border-radius-tool.js",
+  "files": ["border-radius-tool.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "css border radius", "rounded corners css", "border radius css"],
+  "homepage": "https://sgbp.tech/tools/border-radius-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
